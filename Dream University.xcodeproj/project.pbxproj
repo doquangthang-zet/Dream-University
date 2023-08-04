@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AE3347672A738E0F0075529B /* Dream_UniversityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3347662A738E0F0075529B /* Dream_UniversityApp.swift */; };
+		AE3347692A738E0F0075529B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3347682A738E0F0075529B /* ContentView.swift */; };
+		AE33476B2A738E100075529B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE33476A2A738E100075529B /* Assets.xcassets */; };
+		AE33476E2A738E100075529B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE33476D2A738E100075529B /* Preview Assets.xcassets */; };
+		AE3347752A738E980075529B /* universities.json in Resources */ = {isa = PBXBuildFile; fileRef = AE3347742A738E970075529B /* universities.json */; };
+		AE3347772A7390B50075529B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3347762A7390B50075529B /* CircleImage.swift */; };
+		AE5849F62A7393DB000BF66E /* University.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE5849F52A7393DB000BF66E /* University.swift */; };
+		AE584A022A739993000BF66E /* UniversityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A012A739993000BF66E /* UniversityModel.swift */; };
+		AE584A042A739C3E000BF66E /* UniMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A032A739C3E000BF66E /* UniMarkerView.swift */; };
+		AE584A062A739D08000BF66E /* UniMapMarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A052A739D08000BF66E /* UniMapMarker.swift */; };
+		AE584A082A73A40F000BF66E /* UniList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A072A73A40F000BF66E /* UniList.swift */; };
+		AE584A0A2A73A5EB000BF66E /* UniCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A092A73A5EB000BF66E /* UniCard.swift */; };
+		AE584A0C2A73A5F8000BF66E /* UniRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE584A0B2A73A5F8000BF66E /* UniRow.swift */; };
+		AE584A172A73B37A000BF66E /* Lugrasimo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AE584A162A73B37A000BF66E /* Lugrasimo-Regular.ttf */; };
+		AE584A222A73B9E1000BF66E /* NotoSerif-VariableFont_wdth,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AE584A202A73B9E1000BF66E /* NotoSerif-VariableFont_wdth,wght.ttf */; };
+		AE584A232A73B9E1000BF66E /* NotoSerif-Italic-VariableFont_wdth,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AE584A212A73B9E1000BF66E /* NotoSerif-Italic-VariableFont_wdth,wght.ttf */; };
+		AED91BF32A7B8F6700B6D68E /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED91BF22A7B8F6700B6D68E /* WelcomeView.swift */; };
+		AED91BF52A7BA9E200B6D68E /* InforView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED91BF42A7BA9E200B6D68E /* InforView.swift */; };
+		AED91BF72A7BB82400B6D68E /* SocialIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED91BF62A7BB82400B6D68E /* SocialIconView.swift */; };
+		AED91BF92A7BBCA200B6D68E /* InforButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED91BF82A7BBCA200B6D68E /* InforButtonView.swift */; };
+		AED91BFB2A7BBDC200B6D68E /* Teko-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AED91BFA2A7BBDC200B6D68E /* Teko-Regular.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AE3347632A738E0F0075529B /* Dream University.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dream University.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE3347662A738E0F0075529B /* Dream_UniversityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dream_UniversityApp.swift; sourceTree = "<group>"; };
+		AE3347682A738E0F0075529B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AE33476A2A738E100075529B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AE33476D2A738E100075529B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AE3347742A738E970075529B /* universities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = universities.json; sourceTree = "<group>"; };
+		AE3347762A7390B50075529B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		AE5849F52A7393DB000BF66E /* University.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = University.swift; sourceTree = "<group>"; };
+		AE584A012A739993000BF66E /* UniversityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityModel.swift; sourceTree = "<group>"; };
+		AE584A032A739C3E000BF66E /* UniMarkerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniMarkerView.swift; sourceTree = "<group>"; };
+		AE584A052A739D08000BF66E /* UniMapMarker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniMapMarker.swift; sourceTree = "<group>"; };
+		AE584A072A73A40F000BF66E /* UniList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniList.swift; sourceTree = "<group>"; };
+		AE584A092A73A5EB000BF66E /* UniCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniCard.swift; sourceTree = "<group>"; };
+		AE584A0B2A73A5F8000BF66E /* UniRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniRow.swift; sourceTree = "<group>"; };
+		AE584A162A73B37A000BF66E /* Lugrasimo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lugrasimo-Regular.ttf"; sourceTree = "<group>"; };
+		AE584A182A73B39B000BF66E /* Dream-University-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Dream-University-Info.plist"; sourceTree = SOURCE_ROOT; };
+		AE584A202A73B9E1000BF66E /* NotoSerif-VariableFont_wdth,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerif-VariableFont_wdth,wght.ttf"; sourceTree = "<group>"; };
+		AE584A212A73B9E1000BF66E /* NotoSerif-Italic-VariableFont_wdth,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerif-Italic-VariableFont_wdth,wght.ttf"; sourceTree = "<group>"; };
+		AED91BF22A7B8F6700B6D68E /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		AED91BF42A7BA9E200B6D68E /* InforView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InforView.swift; sourceTree = "<group>"; };
+		AED91BF62A7BB82400B6D68E /* SocialIconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialIconView.swift; sourceTree = "<group>"; };
+		AED91BF82A7BBCA200B6D68E /* InforButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InforButtonView.swift; sourceTree = "<group>"; };
+		AED91BFA2A7BBDC200B6D68E /* Teko-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-Regular.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AE3347602A738E0F0075529B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AE33475A2A738E0F0075529B = {
+			isa = PBXGroup;
+			children = (
+				AE3347652A738E0F0075529B /* Dream University */,
+				AE3347642A738E0F0075529B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AE3347642A738E0F0075529B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AE3347632A738E0F0075529B /* Dream University.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AE3347652A738E0F0075529B /* Dream University */ = {
+			isa = PBXGroup;
+			children = (
+				AE584A182A73B39B000BF66E /* Dream-University-Info.plist */,
+				AE3347662A738E0F0075529B /* Dream_UniversityApp.swift */,
+				AE584A192A73B3C4000BF66E /* Font */,
+				AE5849FA2A7395C3000BF66E /* Views */,
+				AE5849F92A7395A4000BF66E /* Model */,
+				AE33476A2A738E100075529B /* Assets.xcassets */,
+				AE33476C2A738E100075529B /* Preview Content */,
+			);
+			path = "Dream University";
+			sourceTree = "<group>";
+		};
+		AE33476C2A738E100075529B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				AE33476D2A738E100075529B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AE5849F92A7395A4000BF66E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AE3347742A738E970075529B /* universities.json */,
+				AE5849F52A7393DB000BF66E /* University.swift */,
+				AE584A012A739993000BF66E /* UniversityModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AE5849FA2A7395C3000BF66E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AE3347682A738E0F0075529B /* ContentView.swift */,
+				AE3347762A7390B50075529B /* CircleImage.swift */,
+				AE584A032A739C3E000BF66E /* UniMarkerView.swift */,
+				AE584A052A739D08000BF66E /* UniMapMarker.swift */,
+				AE584A072A73A40F000BF66E /* UniList.swift */,
+				AE584A092A73A5EB000BF66E /* UniCard.swift */,
+				AE584A0B2A73A5F8000BF66E /* UniRow.swift */,
+				AED91BF22A7B8F6700B6D68E /* WelcomeView.swift */,
+				AED91BF42A7BA9E200B6D68E /* InforView.swift */,
+				AED91BF62A7BB82400B6D68E /* SocialIconView.swift */,
+				AED91BF82A7BBCA200B6D68E /* InforButtonView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AE584A192A73B3C4000BF66E /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				AED91BFA2A7BBDC200B6D68E /* Teko-Regular.ttf */,
+				AE584A212A73B9E1000BF66E /* NotoSerif-Italic-VariableFont_wdth,wght.ttf */,
+				AE584A202A73B9E1000BF66E /* NotoSerif-VariableFont_wdth,wght.ttf */,
+				AE584A162A73B37A000BF66E /* Lugrasimo-Regular.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AE3347622A738E0F0075529B /* Dream University */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE3347712A738E100075529B /* Build configuration list for PBXNativeTarget "Dream University" */;
+			buildPhases = (
+				AE33475F2A738E0F0075529B /* Sources */,
+				AE3347602A738E0F0075529B /* Frameworks */,
+				AE3347612A738E0F0075529B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Dream University";
+			productName = "Dream University";
+			productReference = AE3347632A738E0F0075529B /* Dream University.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AE33475B2A738E0F0075529B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					AE3347622A738E0F0075529B = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = AE33475E2A738E0F0075529B /* Build configuration list for PBXProject "Dream University" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AE33475A2A738E0F0075529B;
+			productRefGroup = AE3347642A738E0F0075529B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AE3347622A738E0F0075529B /* Dream University */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AE3347612A738E0F0075529B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AED91BFB2A7BBDC200B6D68E /* Teko-Regular.ttf in Resources */,
+				AE584A222A73B9E1000BF66E /* NotoSerif-VariableFont_wdth,wght.ttf in Resources */,
+				AE3347752A738E980075529B /* universities.json in Resources */,
+				AE33476E2A738E100075529B /* Preview Assets.xcassets in Resources */,
+				AE584A232A73B9E1000BF66E /* NotoSerif-Italic-VariableFont_wdth,wght.ttf in Resources */,
+				AE33476B2A738E100075529B /* Assets.xcassets in Resources */,
+				AE584A172A73B37A000BF66E /* Lugrasimo-Regular.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AE33475F2A738E0F0075529B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE584A082A73A40F000BF66E /* UniList.swift in Sources */,
+				AE584A062A739D08000BF66E /* UniMapMarker.swift in Sources */,
+				AED91BF72A7BB82400B6D68E /* SocialIconView.swift in Sources */,
+				AED91BF92A7BBCA200B6D68E /* InforButtonView.swift in Sources */,
+				AE3347692A738E0F0075529B /* ContentView.swift in Sources */,
+				AE3347672A738E0F0075529B /* Dream_UniversityApp.swift in Sources */,
+				AE3347772A7390B50075529B /* CircleImage.swift in Sources */,
+				AE584A0C2A73A5F8000BF66E /* UniRow.swift in Sources */,
+				AED91BF32A7B8F6700B6D68E /* WelcomeView.swift in Sources */,
+				AE584A0A2A73A5EB000BF66E /* UniCard.swift in Sources */,
+				AE584A042A739C3E000BF66E /* UniMarkerView.swift in Sources */,
+				AE584A022A739993000BF66E /* UniversityModel.swift in Sources */,
+				AE5849F62A7393DB000BF66E /* University.swift in Sources */,
+				AED91BF52A7BA9E200B6D68E /* InforView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AE33476F2A738E100075529B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AE3347702A738E100075529B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AE3347722A738E100075529B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Dream University/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Dream-University-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vn.edu.rmit.thang.Dream-University";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AE3347732A738E100075529B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Dream University/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Dream-University-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vn.edu.rmit.thang.Dream-University";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AE33475E2A738E0F0075529B /* Build configuration list for PBXProject "Dream University" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE33476F2A738E100075529B /* Debug */,
+				AE3347702A738E100075529B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AE3347712A738E100075529B /* Build configuration list for PBXNativeTarget "Dream University" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE3347722A738E100075529B /* Debug */,
+				AE3347732A738E100075529B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AE33475B2A738E0F0075529B /* Project object */;
+}

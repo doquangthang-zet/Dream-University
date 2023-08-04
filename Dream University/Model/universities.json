@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "University of Natural Sciences (HCMUS)",
+        "imageName": "hcmus",
+        "content": "\tHo Chi Minh City University of Natural Sciences (HCMUS) is a school that was separated from the University of Ho Chi Minh City in 1996. Those who are passionate about information technology and related disciplines can apply to the faculty. Computer Science or Information Technology. Students of the school are always equipped with the most basic knowledge, trained in thinking and analytical skills on the basis of a methodical and scientific study program.\n\tThe School of Information Technology (IT) has grown steadily and is sponsored by the government to become one of the leading IT departments in the education system of Vietnam. In particular, the school is always interested in domestic and international IT competitions to bring students useful playgrounds, improve their ability to analyze and solve practical problems. It can be seen that the thinking, capacity and competitiveness of HCMUS students are always highly appreciated, this will definitely be a great choice for you to pursue your dreams.",
+        "address": "227 Nguyen Van Cu, Ward 4, District 5, Ho Chi Minh City.",
+        "phone": "028 3835 4266",
+        "email": "info@fit.hcmus.edu.vn",
+        "website":"https://www.fit.hcmus.edu.vn",
+        "fanpage": "https://www.facebook.com/tvts.hcmus",
+        "coordinates": {
+            "latitude": 10.76303585123678,
+            "longitude": 106.68252531074887
+        },
+        "favourite": false
+    },
+    {
+        "id": 2,
+        "name": "FPT University",
+        "imageName": "fpt",
+        "content": "\tFPT University is 100% invested by FPT Corporation, established in 2006 and became one of the first universities established by an enterprise. After more than 10 years of operation, FPT has been affirming the position of the leading school in Vietnam.\n\tThe majors that you can choose to study at FPT if you are passionate about technology are Software Engineering, Electronics - Communication, Information Security, Graphic Design. There are also many international bachelor's degree programs at FPT. The school's curriculum is very scientific, close to reality, built according to new standards, eliminating much of the academic character of public schools. In addition, students also hone a lot of foreign language skills, practice at large domestic and foreign enterprises, bringing a dynamic, creative environment and great practical ability for students before entering the university. out of school.",
+        "address": "Lot E2a-7, D. D1 Hi-Tech Park, Long Thanh My Ward, Thu Duc, Ho Chi Minh City.",
+        "phone": "028 7300 1866",
+        "email": "daihoc.hcm@fpt.edu.vn",
+        "website":"https://daihoc.fpt.edu.vn",
+        "fanpage": "https://www.facebook.com/daihocfpt",
+        "coordinates": {
+            "latitude": 10.842855720881081,
+            "longitude": 106.80996882895847
+        },
+        "favourite": false
+    },
+    {
+        "id": 3,
+        "name": "University of Technology (HCMUT)",
+        "imageName": "hcmut",
+        "content": "\tHo Chi Minh City University of Technology is a leading technical school in the South of Vietnam, where many students desire, worthy of being one of the top choices for those who are passionate about information technology. University of Science and Technology - Vietnam National University, Ho Chi Minh City (school code QSB) applies many methods of admission with corresponding criteria, applicable to all groups of disciplines/sectors.\n\tThe school is famous for its very good teaching quality, but it is also because of the academic pressure placed heavily on the shoulders of students, if not highly focused, it is possible to fall into a state of \"crisis\" because of quite a lot of knowledge. There will be no place for lazy people here, only those who are really capable, hardworking and have good independent learning ability to stay at this school. Challenges will make brave people, later you will see that your efforts are completely worth it.\n\tHo Chi Minh City University of Technology (HCMUT) is proud of its more than 50 years of experience in training and providing high-quality technical staff for the whole country in general and for the IT industry in particular. In addition to the regular enrollment program, the IT department of the University of Technology also has an international association program under the 2+2 model of studying abroad. The international joint training program in IT with more modern and practical training methods helps students after graduation to become a complete and excellent person in both professional capacity and social skills.",
+        "address": "268 Ly Thuong Kiet, Ward 14, District 10, Ho Chi Minh City.",
+        "phone": "028 3864 7256",
+        "email": "info@hcmut.edu.vn",
+        "website":"https://hcmut.edu.vn",
+        "fanpage": "https://www.facebook.com/truongdhbachkhoa",
+        "coordinates": {
+            "latitude": 10.772444892962113,
+            "longitude": 106.65768726657102
+        },
+        "favourite": true
+    },
+    {
+        "id": 4,
+        "name": "University of Information Technology(UIT)",
+        "imageName": "uit",
+        "content": "\tUniversity of Information Technology is one of the leading schools in information technology teaching and training, with complete, modern facilities and always updated with new trends to meet learning needs. students in the best possible way. The University of Information Technology is an undergraduate and graduate training center that provides high-quality human resources to meet the needs of the labor market and serve the community.\n\tThe Bachelor of Information Technology program trains bachelors with good political, ethical, and health qualities; have sufficient knowledge and capacity to operate, manage, and develop information technology applications; meet the needs of information technology human resources in different professional fields.\n\tStudents of the school will study and research in a dynamic environment, take classes associated with leading corporations in information technology such as IBM, Microsoft, SunJava,... issue international certificates, creating very good conditions for graduates to apply to work in large corporations. Surely you will feel proud to study in this wonderful school.\n The University of Information Technology is a leading center for scientific research and technology transfer in information and communication technology and related fields.",
+        "address": "Quarter 6, Linh Trung Ward, Thu Duc, Ho Chi Minh City",
+        "phone": "028 3725 2002",
+        "email": "info@uit.edu.vn",
+        "website":"https://www.uit.edu.vn",
+        "fanpage": "https://www.facebook.com/UIT.Fanpage",
+        "coordinates": {
+            "latitude": 10.87024894196797,
+            "longitude": 106.80311904623291
+        },
+        "favourite": true
+    },
+    {
+        "id": 5,
+        "name": "Posts and Telecommunications Institute of Technology(PTIT)",
+        "imageName": "ptit",
+        "content": "\tHo Chi Minh City Posts and Telecommunications Institute of Technology is a school specializing in information and communication technology under the Ministry of Information and Communications. Here, students will be trained in a methodical way with a team of lecturers with a lot of practical experience.\n\tInformation Technology training programs depend on each specific major as mentioned above. But in general, students will be trained with the following basic knowledge: \n General curriculum \n Basic industry knowledge \n Specialized knowledge: The specialized knowledge will equip students with: knowledge related to research, development, outsourcing or application of software systems; knowledge of the design, construction, installation, operation and maintenance of hardware and software components of computer systems and computer-based equipment systems; knowledge of computer networks and communications \n Especially, with VNPT's vast IT and telecommunications network, it will be a huge virtual laboratory, creating an environment for training and science and technology activities associated with production and business and for teaching staff. Research approach to practice, thereby imparting valuable lessons to students, close to reality. Ho Chi Minh City Posts and Telecommunications Institute of Technology will be an ideal choice for students with good academic achievements and an opportunity to develop their passions.",
+        "address": "11 Nguyen Dinh Chieu, Da Kao Ward, District 1, Ho Chi MinhCity. \n or 97 D. Man Thien, Hiep Phu Ward, District 9, Ho Chi Minh City.",
+        "phone": "028 3829 5258",
+        "email": "Tuyensinh@ptit.edu.vn",
+        "website":"https://ptithcm.edu.vn",
+        "fanpage": "https://www.facebook.com/ptithochiminh",
+        "coordinates": {
+            "latitude": 10.796960307626076,
+            "longitude": 106.70009554761883
+        },
+        "favourite": false
+    },
+    {
+        "id": 6,
+        "name": "University of Technology and Education(UTE)",
+        "imageName": "ute",
+        "content": "Ho Chi Minh City University of Technology and Education is located in Thu Duc with very modern learning facilities. Students have solid professional knowledge in the field of Information Technology (Software Technology, Computer Networks, Information Systems); Students are focused on learning both theory and practical skills to ensure that graduates can access and work at companies. After graduation, students can work at: Software companies, companies providing network solutions, companies providing domestic and international information system solutions, etc. \n Studying at Ho Chi Minh City University of Technology and Education, you will not be afraid of being bored, but on the contrary, you will be very interested in the clubs and competitions that the school often organizes. Competitions on information technology, computer software, IT Mastering, etc. are regularly held, which is an interesting playground for students and also a place where students can unleash their creativity, cultivate and learn. gain experience in your specialty. If you are interested in information technology, then Ho Chi Minh City University of Technology and Education will be a good choice for you.",
+        "address": "01 Vo Van Ngan, Linh Chieu Ward, Thu Duc, Ho Chi Minh City.",
+        "phone": "028 3722 5724",
+        "email": "Tuyensinh@hcmute.edu.vn",
+        "website":"https://tuyensinh.hcmute.edu.vn",
+        "fanpage": "https://www.facebook.com/tuyensinhspkttphcm",
+        "coordinates": {
+            "latitude": 10.850779907527173,
+            "longitude": 106.7718809089007
+        },
+        "favourite": true
+    },
+    {
+        "id": 7,
+        "name": "RMIT University",
+        "imageName": "rmit",
+        "content": "RMIT is that you are choosing a university that is globally recognized for its leadership and innovation in technology, design and business organization. You'll learn from experts in your field, benefit from a corporate network and a curriculum that's relevant to the latest industry trends. \n Studying Information Technology (IT) at RMIT will make you highly sought after by employers in the IT and software development fields. Many local and international companies are looking for professionals with good English skills. You will develop the knowledge and skills to build and manage enterprise applications, cloud storage, social networks, websites and other systems. From there you will specialize in technology infrastructure development. You will learn how to design and troubleshoot enterprise-level IT problems and work collaboratively with stakeholders in a variety of fields. \n The program also focuses on software development, system design and testing, applying skills to design software applications on a large scale. You can even add a specialization to your career with a minor. It is necessary to study a combination of 4 subjects as required to complete one of the sub-specialties: artificial intelligence; data analysis; web and mobile platform development; cloud technology.",
+        "address": "702 Nguyen Van Linh, Tan Hung Ward, District 7, Ho Chi Minh City",
+        "phone": "028 3776 1369",
+        "email": "enquiries@rmit.edu.vn",
+        "website":"https://www.rmit.edu.vn",
+        "fanpage": "https://www.facebook.com/RMITUniversityVietnam",
+        "coordinates": {
+            "latitude": 10.729267700501644,
+            "longitude": 106.69576666969117
+        },
+        "favourite": true
+    },
+    {
+        "id": 8,
+        "name": "Saigon Technology University(STU)",
+        "imageName": "stu",
+        "content": "Faculty of Information Technology of Saigon University of Technology was established under Decision No. 17A-2001/CDKN, dated May 2, 2001. Currently, the Faculty of Information Technology is mainly responsible for training human resources in Information Technology at two levels: University and College. The training and research of the Faculty of Information Technology is prioritized on modern and advanced technologies that can be quickly and effectively applied to the construction, exploitation and development of application software.\nLecturers with Engineer, Master, and PhD degrees directly teach. Always try to improve the content, teaching methods and practical skills. Teaching materials are referenced and updated by research lecturers from major universities in the world and from major publishers such as: McGrawHill, Prentice Hall, etc. In addition, Saigon University of Technology also has many many research centers create learning conditions for students in the best way.\nTalking about the training content of the school, the discipline provides students with basic and advanced programming knowledge, information system analysis and design knowledge, hardware and computer network knowledge. count.\nTalking about professional skills, computer engineers have the ability to self-study so that they can master common software, and can continue to be trained to exploit specialized software. the ability to self-build small-scale software or build (program) a pre-designed module of medium-sized software, capable of participating in certain roles in software development projects software under the leadership of the project leader.",
+        "address": "180 Cao Lo, Ward 4, District 8, Ho Chi Minh City",
+        "phone": "028 3850 5520",
+        "email": "contact@stu.edu.vn",
+        "website":"https://www.stu.edu.vn",
+        "fanpage": "https://www.facebook.com/DHCNSG",
+        "coordinates": {
+            "latitude": 10.738165844859292,
+            "longitude": 106.67792865492636
+        },
+        "favourite": false
+    },
+    {
+        "id": 9,
+        "name": "Ton Duc Thang university",
+        "imageName": "tdt",
+        "content": "Ton Duc Thang University is a research university within the next three decades, in parallel with holding the role of training, retraining, fostering and improving professional qualifications, skills, serving the needs of supply and demand. high quality human resources for the process of industrialization and modernization of Vietnam.\nThe Faculty of Information Technology (IT) was formerly known as the Faculty of Mathematics and Information Technology, which was established in 1997 - at the same time as Ton Duc Thang University was established. On March 2, 2012, the Faculty was separated and renamed the Faculty of Information Technology, taking on the role of training human resources in the field of Computer Science to meet the needs for the sustainable development of society. . After graduating, students of the Faculty of Information Technology are not only equipped with good programming skills but also with knowledge of system analysis and design, network administration, web design, administration and development of systems. information system for agencies, organizations and businesses.\nThe Faculty of Information Technology has been and is one of the prestigious faculties of teaching and scientific research of Ton Duc Thang University . The Faculty of IT has many cooperative training programs with big companies such as IBM, LogiGear, FSOFT, so students have good practice ability. The quality of the Faculty's training is confirmed with over 90% of graduates having jobs in the right profession. Many alumni of the Faculty are now successful professionals, holding important positions in software development enterprises, companies that use information systems such as project leaders or technical directors.",
+        "address": "19 Nguyen Huu Tho, Tan Hung Ward, District 7, Ho Chi Minh City",
+        "phone": "028 3775 5035",
+        "email": "tonducthanguniversity@tdtu.edu.vn",
+        "website":"https://www.tdtu.edu.vn",
+        "fanpage": "https://www.facebook.com/tonducthanguniversity",
+        "coordinates": {
+            "latitude": 10.7329113358651,
+            "longitude": 106.6997803242418
+        },
+        "favourite": false
+    },
+    {
+        "id": 10,
+        "name": "HUTECH",
+        "imageName": "hutech",
+        "content": "\tHo Chi Minh City University of Technology - HUTECH was formerly Ho Chi Minh City University of Technology and Technology. After more than 27 years of construction and development, HUTECH currently owns 04 campuses located in Ho Chi Minh City. Ho Chi Minh. Campuses are invested in spacious and modern construction according to international standards with a total area of ​​​​over 100,000m2, creating a modern, dynamic and comfortable learning space.\nilosophy of \"Learning to learn, learning to do, learning to create, learning to live together and learning to be independent\". is also the core value to bring HUTECH to develop and establish a position as a leading university in the Vietnamese education system, training students to develop comprehensively professional knowledge and professional skills, dynamic - bravery - confidently integrate with the international community, well undertake work in a multi-field, multi-cultural environment. Faculty of IT at HUTECHAs one of the faculties with the longest history of operation of the university, the Faculty of Information Technology is confident to have a team of experienced, enthusiastic, creative, ethical and responsible lecturers. HUTECH is fully equipped with facilities and equipment to ensure good service for teaching, learning and scientific research activities. HUTECH's facilities are increasingly improved through investment in repair and new construction. The learning space of students is increasingly being renovated, bringing a new and more spacious learning space. In particular, the University always focuses on investing in modern equipment for research, teaching and learning",
+        "address": "475A Dien Bien Phu, Ward 25, Binh Thanh District, Ho Chi Minh City",
+        "phone": "028 3512 0791",
+        "email": "khoa.cntt@hutech.edu.vn",
+        "website":"https://www.hutech.edu.vn",
+        "fanpage": "https://www.facebook.com/hutechuniversity",
+        "coordinates": {
+            "latitude": 10.801933651448854,
+            "longitude": 106.71452026842032
+        },
+        "favourite": false
+    }
+]
