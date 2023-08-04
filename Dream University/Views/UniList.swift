@@ -30,6 +30,7 @@ struct UniList: View {
                 List(universities, id: \.self.id){ uni in
                     NavigationLink{
                         UniCard(uni: uni)
+                            .offset(y:-40)
                     } label: {
                         UniRow(uni: uni)
                     }
